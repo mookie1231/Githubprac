@@ -1,0 +1,14 @@
+{
+  "name": "githubprac",
+  "version": "1.0.0",
+  "description": "A place to practice endlessly",
+  "main": "hello.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
